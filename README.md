@@ -20,14 +20,14 @@ Full adder is a digital circuit used to calculate the sum of three binary bits. 
 
 Sum =A’B’Cin + A’BCin’ + ABCin + AB’Cin’ = A ⊕ B ⊕ Cin Carry = AB + ACin + BCin
 
- ![image](https://user-images.githubusercontent.com/36288975/163552156-a13e5a56-c638-4110-97d9-8896907c8d25.png)
 
 #### Figure -01 HALF ADDER 
+![Screenshot 2023-11-26 141707](https://github.com/TimmapuramYogeeswar/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/154494746/8d265565-5b4a-438e-8c94-bf7964d5364b)
 
 
-![image](https://user-images.githubusercontent.com/36288975/163552057-b3547877-6d07-45b4-b7e0-bcfebfad9e1d.png)
 
 #### Figure -02 FULL ADDER 
+![Screenshot 2023-11-26 142950](https://github.com/TimmapuramYogeeswar/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/154494746/e8316d48-6d69-4f92-bddb-9f72c4c2c06b)
 
 ### Procedure
 
@@ -37,7 +37,11 @@ If the output is 1, then the led glows.
 ### 
 Program:
 /*
-Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
+![Screenshot 2023-11-26 144724](https://github.com/TimmapuramYogeeswar/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/154494746/92451346-19bd-4938-b808-7ac49c95b590)
+![Screenshot 2023-11-26 144724](https://github.com/TimmapuramYogeeswar/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/154494746/df19940e-be19-435f-8cb4-55751fc14fbd)
+
+
+
 Developed by: 
 RegisterNumber:  
 */
@@ -47,8 +51,13 @@ RTL realization
 ### Output:
 ### RTL
 ### TIMING DIAGRAM
+![Screenshot 2023-11-26 142029](https://github.com/TimmapuramYogeeswar/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/154494746/eeba215b-1af2-4e6f-8ee5-1f52b1f1ade4)
+![Screenshot 2023-11-26 142848](https://github.com/TimmapuramYogeeswar/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/154494746/ea3295ca-0634-4404-83fd-04548e8bb20b)
 
 
 ### TRUTH TABLE 
+![download](https://github.com/TimmapuramYogeeswar/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/154494746/54c2f0b5-b6c0-403a-9be2-35a7b74baf2d)
+
+![download](https://github.com/TimmapuramYogeeswar/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/154494746/03f0bf20-2dd1-441a-80bb-8c053d22a428)
 
 ### Result:
