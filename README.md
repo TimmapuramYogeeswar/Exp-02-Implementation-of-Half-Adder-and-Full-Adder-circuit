@@ -61,3 +61,5 @@ RTL realization
 ![download](https://github.com/TimmapuramYogeeswar/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/154494746/03f0bf20-2dd1-441a-80bb-8c053d22a428)
 
 ### Result:
+Implementation-of-Half-Adder-and-Full-Adder-circuit
+Implementation-of-Half-Adder-and-Full-Adder-circuit
